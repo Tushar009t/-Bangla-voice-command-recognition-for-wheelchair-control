@@ -1,5 +1,5 @@
 # EEE312_DSP_Project
-espite being one of the most widely spoken languages of the world, no significant efforts have been made
+Despite being one of the most widely spoken languages of the world, no significant efforts have been made
 in Bangla speech recognition. Speech recognition, in particular
 keyword recognition, is a difficult task especially if the demand
 is to do so in noisy real-life conditions. With inspiration to
